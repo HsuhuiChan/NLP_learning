@@ -1,0 +1,1 @@
+in  lesson 12, I learn how CNN work, and I build a CNN in tensorflow, use notMNIST data to train and test the CNN.
