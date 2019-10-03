@@ -1,0 +1,2 @@
+download from the web:
+https://www.kaggle.com/yekenot/pooled-gru-fasttext
