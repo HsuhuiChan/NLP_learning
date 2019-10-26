@@ -1,1 +1,0 @@
-this lesson I learn how to build a neural network form scrath, i.e. build a neural network frame.
